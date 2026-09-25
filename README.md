@@ -68,8 +68,12 @@ Complete security, testing, CI/CD, privacy, monitoring, backup/recovery, rate li
 ### Phase 7 — Future Intelligent Household Features
 Explore running-low signals, reorder prediction, recipes, substitutions, price comparison, optimized shopping order, and voice integrations.
 
+## Project Documentation
+
+Detailed architecture, feature specifications, and phased implementation notes are maintained in Notion:
+
+- [Grocery Collab App — Notion Project](https://app.notion.com/p/3e6e4a2ede2981a88494f15fc02afcc9)
+
 ## Current Status
 
 Planning / project foundation.
-
-Detailed architecture, feature specifications, and phased implementation notes are maintained in the project's Notion workspace.
